@@ -4,7 +4,7 @@ Este repositório contém o código fonte e a documentação de um sistema de tr
 
 ## 👥 Autores
 Projeto desenvolvido pelos discentes de Engenharia da Computação do IFMT:
-* João Heitor Kozow Bittencourt Bertoloto
+* João Heitor Kozow Bertoloto
 * Henzo Henrique Ferreira Moraes
 * Enzo Bernardo de Campos
 * Mauricio Matias Marques
